@@ -1,0 +1,23 @@
+{
+  "name": "frontend-interview-project",
+  "version": "1.0.0",
+  "description": "Interview project for Merapar frontend candidates",
+  "type": "module",
+  "homepage": ".",
+  "keywords": [
+    "merapar",
+    "interview",
+    "frontend"
+  ],
+  "author": "Merapar",
+  "license": "ISC",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
